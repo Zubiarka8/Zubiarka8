@@ -22,11 +22,8 @@
 
   <h3>🤝 Connect with Me</h3>
   <p>
-    <a href="mailto:zubiarka8@gmail.com" target="_blank" rel="noopener">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="38" height="38" />
-    </a>
     <a href="https://zubiarka8.github.io" target="_blank" rel="noopener">
-      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" alt="Website" width="38" height="38" />
+      <img src="https://img.shields.io/badge/🌐_Visit_my_website-zubiarka8.github.io-2e8b57?style=for-the-badge" alt="My website: zubiarka8.github.io" />
     </a>
   </p>
 
