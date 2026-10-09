@@ -25,6 +25,9 @@
     <a href="mailto:zubiarka8@gmail.com" target="_blank" rel="noopener">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="38" height="38" />
     </a>
+    <a href="https://zubiarka8.github.io" target="_blank" rel="noopener">
+      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" alt="Website" width="38" height="38" />
+    </a>
   </p>
 
   <hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 2em 0;" />
